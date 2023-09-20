@@ -1,0 +1,46 @@
+*{
+    background-color: aliceblue;
+    font-family: cursive;
+}
+
+h1{
+    color: rgb(13, 13, 13);
+    background-color: rgba(255, 228, 196, 0.534);
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px;
+}
+
+.div1{
+    margin: 0 auto;
+}
+
+fieldset{
+    border-radius: 10px;
+    border: 1px solid black;
+    margin: 5px;
+    display: inline;
+    max-width: 350px;
+    max-height: 250px;
+    overflow: hidden;
+}
+
+legend{
+    color: white ;
+    text-align: right;
+    background-color: black;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 100px;
+}
